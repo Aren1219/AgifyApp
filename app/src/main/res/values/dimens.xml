@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="etHintMarginTop">50dp</dimen>
+    <dimen name="etHintTextSize">30sp</dimen>
+    <dimen name="tvInstructionMarginTop">50dp</dimen>
+    <dimen name="tvInstructionTextSize">20sp</dimen>
+    <dimen name="btnGuessTextSize">15sp</dimen>
+
+</resources>

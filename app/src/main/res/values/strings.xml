@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">MVVM Presentation</string>
+    <string name="tvInstruction">Enter your name and I will guess your age.</string>
+    <string name="btnGuess">Guess age</string>
+    <string name="etHint">First Name</string>
+    <string name="tvName">Name: %1$s</string>
+    <string name="tvCount">Count: %1$s</string>
+    <string name="tvAge">Age: %1$s</string>
+
+</resources>
